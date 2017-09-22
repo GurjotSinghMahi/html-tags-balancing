@@ -6,5 +6,5 @@ What exactly is meant by that? In the case of a pair of html tags (<html>, </htm
 &#60;html&#62;&#60;title&#62;&#60;/title&#62;&#60;/html&#62; <- Well formed and balanced
 
 <html><title><title></html> <- Not Balanced
-
+<br>
 Warning: This program is not designed to handle unclosing tags like <br>
